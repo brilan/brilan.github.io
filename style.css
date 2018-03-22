@@ -1,7 +1,15 @@
+/* Body styles */
 body {
-    background-color: white;
+    background-color: gray;
 }
 
-h1 {
+.container {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+}
+
+/* header styles */
+header h1 {
     text-align: center;
 }
