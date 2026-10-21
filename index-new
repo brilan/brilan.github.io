@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Hello</title>
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <section id="about">
+
+                <h2>Hello</h2>
+
+                <p>
+                   
+                </p>
+
+                <p>
+                   
+                </p>
+
+                <div id="buttons">
+                    <a class="btn flat" id="contact" href=""></a>
+                </div>
+                
+            </section>
+
+        </div>
+
+    </body>
+</html>
